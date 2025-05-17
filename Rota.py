@@ -104,4 +104,3 @@ botao_processar_aba = ctk.CTkButton(
 )
 
 app.mainloop()
-#by ben and davi....
